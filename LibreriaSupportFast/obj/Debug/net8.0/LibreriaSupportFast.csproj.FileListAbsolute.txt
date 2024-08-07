@@ -3,3 +3,4 @@ C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACION
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfoInputs.cache
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfo.cs
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.CoreCompileInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.sourcelink.json
