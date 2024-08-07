@@ -1,0 +1,6 @@
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
