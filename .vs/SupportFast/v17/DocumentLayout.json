@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\migrations\\20240808081137_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\migrations\\20240808081137_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808090128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibreriaSupportFast\\Migrations\\20240808090128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\webapisupportfast\\controllers\\subcategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\subcategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\models\\gestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\gestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\webapisupportfast\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\models\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\irepositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +47,12 @@
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositorioareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\irepositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\irepositorioareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\irepositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|e:\\estatal\\7mo nivel\\desarrollo de aplicaciones web avanzado\\2do parcial\\proyecto final\\webapisf_local\\libreriasupportfast\\repositorios\\irepositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -85,8 +85,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 447,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 367,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,46 +102,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepositorioTickets.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\WebApiSupportFast\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\TicketsController.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\WebApiSupportFast\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "WebApiSupportFast\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:57:36.815Z",
+              "WhenOpened": "2024-08-08T08:47:34.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "RepositorioTickets.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
               "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwC8AAAANAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T07:56:25.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "RepositorioSubCategorias.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAvwBkAAAAbAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T07:51:16.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IRepositorioSubCategorias.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioSubCategorias.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioSubCategorias.cs",
@@ -154,7 +154,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "RepositorioGestiones.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:05:34.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RepositorioAreas.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioAreas.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioAreas.cs",
@@ -162,12 +175,23 @@
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioAreas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:08:55.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:08:55.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
+              "Title": "IRepositorioTickets.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:57:36.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IRepositorioAreas.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioAreas.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioAreas.cs",
@@ -175,12 +199,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioAreas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:08:32.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:08:32.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RepositorioCiudades.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
@@ -188,25 +211,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:13:55.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:13:55.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RepositorioGestiones.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:05:34.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Usuarios.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Usuarios.cs",
@@ -214,12 +223,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\Models\\Usuarios.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:03:38.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T07:03:38.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
@@ -227,12 +235,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAA4wAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:10:01.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:10:01.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LibreriaSupportFast.csproj",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\LibreriaSupportFast.csproj",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\LibreriaSupportFast.csproj",
@@ -240,25 +247,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\LibreriaSupportFast.csproj",
               "ViewState": "AQIAAAcAAAAAAAAAAAAcwBEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-08T07:27:17.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T07:27:17.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRepositorioCiudades.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:11:51.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Perfiles.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Perfiles.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Perfiles.cs",
@@ -266,12 +259,11 @@
               "RelativeToolTip": "LibreriaSupportFast\\Models\\Perfiles.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:01:41.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T07:01:41.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IRepositorioGestiones.cs",
               "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
@@ -279,83 +271,82 @@
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA0wA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:05:10.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T06:05:10.366Z"
             }
           ]
         },
         {
-          "DockedHeight": 447,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 527,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tickets.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tickets.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tickets.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tickets.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Tickets.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA7wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:12:50.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240808081137_init.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808081137_init.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Migrations\\20240808081137_init.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808081137_init.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Migrations\\20240808081137_init.cs",
+              "DocumentIndex": 0,
+              "Title": "20240808090128_init.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808090128_init.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Migrations\\20240808090128_init.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808090128_init.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Migrations\\20240808090128_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:11:37.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SubCategoriasController.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
-              "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
-              "RelativeToolTip": "WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAewDQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:07:31.372Z",
+              "WhenOpened": "2024-08-08T09:01:28.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Tecnicos.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tecnicos.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tecnicos.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tecnicos.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Tecnicos.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Gestiones.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Gestiones.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Gestiones.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Gestiones.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Gestiones.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:05:37.26Z",
+              "WhenOpened": "2024-08-08T08:53:27.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RepositorioTecnico.cs",
-              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
-              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Title": "20240808084827_Nuevo0348.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Migrations\\20240808084827_Nuevo0348.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:04:48.9Z",
+              "WhenOpened": "2024-08-08T08:48:27.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tickets.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\Tickets.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Tickets.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:23:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubCategorias.cs",
+              "DocumentMoniker": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "ToolTip": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:30:14.074Z",
+              "EditorCaption": ""
             }
           ]
         }

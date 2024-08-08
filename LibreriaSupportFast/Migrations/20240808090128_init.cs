@@ -155,6 +155,47 @@ namespace LibreriaSupportFast.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Gestiones",
+                columns: table => new
+                {
+                    id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    id_Ticket = table.Column<int>(type: "int", nullable: false),
+                    id_categoria = table.Column<int>(type: "int", nullable: false),
+                    categoriasid = table.Column<int>(type: "int", nullable: false),
+                    id_subcategoria = table.Column<int>(type: "int", nullable: false),
+                    id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
+                    id_solucion = table.Column<int>(type: "int", nullable: false),
+                    solucionesid = table.Column<int>(type: "int", nullable: false),
+                    id_estado = table.Column<int>(type: "int", nullable: false),
+                    estadosid = table.Column<int>(type: "int", nullable: false),
+                    f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Gestiones", x => x.id);
+                    table.ForeignKey(
+                        name: "FK_Gestiones_Categorias_categoriasid",
+                        column: x => x.categoriasid,
+                        principalTable: "Categorias",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Gestiones_Estados_estadosid",
+                        column: x => x.estadosid,
+                        principalTable: "Estados",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Gestiones_Soluciones_solucionesid",
+                        column: x => x.solucionesid,
+                        principalTable: "Soluciones",
+                        principalColumn: "id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "SubCategorias",
                 columns: table => new
                 {
@@ -184,10 +225,8 @@ namespace LibreriaSupportFast.Migrations
                     c_Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     id_categoria = table.Column<int>(type: "int", nullable: false),
                     categoriasid = table.Column<int>(type: "int", nullable: false),
-                    id_subcategoria = table.Column<int>(type: "int", nullable: false),
-                    subCategoriasid = table.Column<int>(type: "int", nullable: false),
+                    id_SubCategoria = table.Column<int>(type: "int", nullable: false),
                     id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
-                    tecnicosid = table.Column<int>(type: "int", nullable: false),
                     id_solucion = table.Column<int>(type: "int", nullable: false),
                     solucionesid = table.Column<int>(type: "int", nullable: false),
                     id_estado = table.Column<int>(type: "int", nullable: false),
@@ -217,80 +256,6 @@ namespace LibreriaSupportFast.Migrations
                         principalTable: "Soluciones",
                         principalColumn: "id",
                         onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Tickets_SubCategorias_subCategoriasid",
-                        column: x => x.subCategoriasid,
-                        principalTable: "SubCategorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Tickets_Tecnicos_tecnicosid",
-                        column: x => x.tecnicosid,
-                        principalTable: "Tecnicos",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Gestiones",
-                columns: table => new
-                {
-                    id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    id_Ticket = table.Column<int>(type: "int", nullable: false),
-                    ticketid = table.Column<int>(type: "int", nullable: false),
-                    id_categoria = table.Column<int>(type: "int", nullable: false),
-                    categoriasid = table.Column<int>(type: "int", nullable: false),
-                    id_subcategoria = table.Column<int>(type: "int", nullable: false),
-                    subCategoriasid = table.Column<int>(type: "int", nullable: false),
-                    id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
-                    tecnicosid = table.Column<int>(type: "int", nullable: false),
-                    id_solucion = table.Column<int>(type: "int", nullable: false),
-                    solucionesid = table.Column<int>(type: "int", nullable: false),
-                    id_estado = table.Column<int>(type: "int", nullable: false),
-                    estadosid = table.Column<int>(type: "int", nullable: false),
-                    f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Gestiones", x => x.id);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_Categorias_categoriasid",
-                        column: x => x.categoriasid,
-                        principalTable: "Categorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_Estados_estadosid",
-                        column: x => x.estadosid,
-                        principalTable: "Estados",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_Soluciones_solucionesid",
-                        column: x => x.solucionesid,
-                        principalTable: "Soluciones",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_SubCategorias_subCategoriasid",
-                        column: x => x.subCategoriasid,
-                        principalTable: "SubCategorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_Tecnicos_tecnicosid",
-                        column: x => x.tecnicosid,
-                        principalTable: "Tecnicos",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Gestiones_Tickets_ticketid",
-                        column: x => x.ticketid,
-                        principalTable: "Tickets",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
@@ -314,21 +279,6 @@ namespace LibreriaSupportFast.Migrations
                 column: "solucionesid");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_subCategoriasid",
-                table: "Gestiones",
-                column: "subCategoriasid");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_tecnicosid",
-                table: "Gestiones",
-                column: "tecnicosid");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_ticketid",
-                table: "Gestiones",
-                column: "ticketid");
-
-            migrationBuilder.CreateIndex(
                 name: "IX_SubCategorias_categoriasid",
                 table: "SubCategorias",
                 column: "categoriasid");
@@ -347,16 +297,6 @@ namespace LibreriaSupportFast.Migrations
                 name: "IX_Tickets_solucionesid",
                 table: "Tickets",
                 column: "solucionesid");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Tickets_subCategoriasid",
-                table: "Tickets",
-                column: "subCategoriasid");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Tickets_tecnicosid",
-                table: "Tickets",
-                column: "tecnicosid");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Usuarios_areasid",
@@ -381,10 +321,22 @@ namespace LibreriaSupportFast.Migrations
                 name: "Gestiones");
 
             migrationBuilder.DropTable(
-                name: "Usuarios");
+                name: "SubCategorias");
 
             migrationBuilder.DropTable(
                 name: "Tickets");
+
+            migrationBuilder.DropTable(
+                name: "Usuarios");
+
+            migrationBuilder.DropTable(
+                name: "Categorias");
+
+            migrationBuilder.DropTable(
+                name: "Estados");
+
+            migrationBuilder.DropTable(
+                name: "Soluciones");
 
             migrationBuilder.DropTable(
                 name: "Areas");
@@ -394,18 +346,6 @@ namespace LibreriaSupportFast.Migrations
 
             migrationBuilder.DropTable(
                 name: "Perfiles");
-
-            migrationBuilder.DropTable(
-                name: "Estados");
-
-            migrationBuilder.DropTable(
-                name: "Soluciones");
-
-            migrationBuilder.DropTable(
-                name: "SubCategorias");
-
-            migrationBuilder.DropTable(
-                name: "Categorias");
 
             migrationBuilder.DropTable(
                 name: "Tecnicos");

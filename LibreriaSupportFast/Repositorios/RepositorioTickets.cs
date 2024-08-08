@@ -29,7 +29,7 @@ namespace LibreriaSupportFast.Repositorios
                 tic.id = tickets.id;
                 tic.c_Descripcion = tickets.c_Descripcion;
                 tic.id_categoria = tickets.id_categoria;
-                tic.id_subcategoria = tickets.id_subcategoria;
+                tic.id_SubCategoria = tickets.id_SubCategoria;
                 tic.id_tecnico_asignado = tickets.id_tecnico_asignado;
                 tic.id_solucion = tickets.id_solucion;
                 tic.id_estado = tickets.id_estado;

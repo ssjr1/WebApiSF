@@ -29,10 +29,10 @@ namespace LibreriaSupportFast.Repositorios
         public async Task<List<Gestiones>> ListadoGestiones()
         {
             return await _context.Gestiones
-                .Include(g => g.ticket)
+                .Include(g => g.id_Ticket)
                 .Include(g => g.categorias)
-                .Include(g => g.subCategorias)
-                .Include(g => g.tecnicos)
+                .Include(g => g.id_subcategoria)
+                .Include(g => g.id_tecnico_asignado)
                 .Include(g => g.soluciones)
                 .Include(g => g.estados)
                 .ToListAsync();
@@ -51,10 +51,10 @@ namespace LibreriaSupportFast.Repositorios
         public async Task<Gestiones> ObtenerGestionPorId(int id)
         {
             return await _context.Gestiones
-                .Include(g => g.ticket)
+                .Include(g => g.id_Ticket)
                 .Include(g => g.categorias)
-                .Include(g => g.subCategorias)
-                .Include(g => g.tecnicos)
+                .Include(g => g.id_subcategoria)
+                .Include(g => g.id_tecnico_asignado)
                 .Include(g => g.soluciones)
                 .Include(g => g.estados)
                 .FirstOrDefaultAsync(g => g.id == id);
