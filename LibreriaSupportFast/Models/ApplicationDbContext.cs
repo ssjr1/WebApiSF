@@ -20,5 +20,7 @@ namespace LibreriaSupportFast.Models
         public DbSet<Tickets> Tickets { get; set; }
         public DbSet<Areas> Areas { get; set; }
         public DbSet<Ciudades> Ciudades { get; set; }
+        public DbSet<Usuarios> Usuarios { get; set; }
+        public DbSet<Perfiles> Perfiles { get; set; }
     }
 }
