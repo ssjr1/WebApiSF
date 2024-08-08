@@ -1,12 +1,16 @@
-﻿using System;
+﻿using LibreriaSupportFast.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace LibreriaSupportFast.Repositorios
 {
-    public class IRepositorioGestiones
+    public interface IRepositorioGestiones
     {
+        Task<int> CrearGestion(Gestiones gestion);
+        Task<int> ModificarGestion(Gestiones gestion);
+        Task<List<Gestiones>> ListadoGestiones();
+        Task EliminarGestion(int id);
+        Task<Gestiones> ObtenerGestionPorId(int id);
     }
 }
+

@@ -1,12 +1,63 @@
-﻿using System;
+﻿using LibreriaSupportFast.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace LibreriaSupportFast.Repositorios
 {
-    internal class RepositorioGestiones
+    public class RepositorioGestiones : IRepositorioGestiones
     {
+        private readonly ApplicationDbContext _context;
+
+        public RepositorioGestiones(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<int> CrearGestion(Gestiones gestion)
+        {
+            await _context.Gestiones.AddAsync(gestion);
+            return await _context.SaveChangesAsync();
+        }
+
+        public async Task<int> ModificarGestion(Gestiones gestion)
+        {
+            _context.Gestiones.Update(gestion);
+            return await _context.SaveChangesAsync();
+        }
+
+        public async Task<List<Gestiones>> ListadoGestiones()
+        {
+            return await _context.Gestiones
+                .Include(g => g.ticket)
+                .Include(g => g.categorias)
+                .Include(g => g.subCategorias)
+                .Include(g => g.tecnicos)
+                .Include(g => g.soluciones)
+                .Include(g => g.estados)
+                .ToListAsync();
+        }
+
+        public async Task EliminarGestion(int id)
+        {
+            var gestion = await _context.Gestiones.FindAsync(id);
+            if (gestion != null)
+            {
+                _context.Gestiones.Remove(gestion);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task<Gestiones> ObtenerGestionPorId(int id)
+        {
+            return await _context.Gestiones
+                .Include(g => g.ticket)
+                .Include(g => g.categorias)
+                .Include(g => g.subCategorias)
+                .Include(g => g.tecnicos)
+                .Include(g => g.soluciones)
+                .Include(g => g.estados)
+                .FirstOrDefaultAsync(g => g.id == id);
+        }
     }
 }
