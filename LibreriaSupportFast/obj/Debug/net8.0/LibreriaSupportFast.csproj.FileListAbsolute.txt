@@ -4,3 +4,9 @@ C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACION
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfo.cs
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.CoreCompileInputs.cache
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.AssemblyReference.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfoInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfo.cs
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.CoreCompileInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.sourcelink.json

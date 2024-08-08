@@ -13,6 +13,6 @@ namespace LibreriaSupportFast.Repositorios
         Task<int> modificarSubCategorias(SubCategorias subCategorias);
         Task<List<SubCategorias>> listadoSubCategorias();
         Task eliminarSubCategoria(int id);
-        Task<Tecnicos> obtenerSubCategoriaPorId(int id);
+        Task<SubCategorias> obtenerSubCategoriaPorId(int id);
     }
 }

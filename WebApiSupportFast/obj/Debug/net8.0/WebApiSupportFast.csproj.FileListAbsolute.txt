@@ -5,3 +5,10 @@ C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACION
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json

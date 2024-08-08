@@ -23,7 +23,7 @@ namespace LibreriaSupportFast.Repositorios
                 await context.SaveChangesAsync();
                 return subCategorias.id;
             }
-            public async Task<int> modificarSubCategoria(SubCategorias subCategorias)
+            public async Task<int> modificarSubCategorias(SubCategorias subCategorias)
             {
                 SubCategorias sub = await context.SubCategorias.FindAsync(subCategorias.id);
                 sub.id = subCategorias.id;
@@ -35,13 +35,13 @@ namespace LibreriaSupportFast.Repositorios
             {
                 return context.SubCategorias.ToListAsync();
             }
-            async Task eliminarSubCategorias(int id)
+            public async Task eliminarSubCategoria(int id)
             {
                 SubCategorias subCategorias = await context.SubCategorias.FindAsync(id);
                 context.SubCategorias.Remove(subCategorias);
                 await context.SaveChangesAsync();
             }
-            public async Task<SubCategorias> obtenerSubCategriaPorId(int id)
+            public async Task<SubCategorias> obtenerSubCategoriaPorId(int id)
             {
                 return await context.SubCategorias.FindAsync(id);
             }

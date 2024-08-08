@@ -44,7 +44,7 @@ namespace LibreriaSupportFast.Repositorios
             {
                 return context.Tickets.ToListAsync();
             }
-            async Task eliminarTickets(int id)
+            public async Task eliminarTicket(int id)
             {
                 Tickets tickets= await context.Tickets.FindAsync(id);
                 context.Tickets.Remove(tickets);
