@@ -19,7 +19,7 @@ namespace LibreriaSupportFast.Repositorios
         {
             context.Tecnicos.Add(tecnico);
             await context.SaveChangesAsync();
-            return Tecnicos.id;
+            return tecnico.id;
         }
         public async Task<int> modificarTecnico(Tecnicos tecnico)
         {
@@ -33,7 +33,7 @@ namespace LibreriaSupportFast.Repositorios
         {
             return context.Tecnicos.ToListAsync();
         }
-        async Task eliminarTecnico(int id)
+        public async Task eliminarTecnico(int id)
         {
             Tecnicos tecnicos = await context.Tecnicos.FindAsync(id);
             context.Tecnicos.Remove(tecnicos);

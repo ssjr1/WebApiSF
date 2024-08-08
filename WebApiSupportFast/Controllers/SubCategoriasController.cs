@@ -11,9 +11,9 @@ namespace WebApiSupportFast.Controllers
     [ApiController]
     public class SubCategoriasController : ControllerBase
     {
-        private readonly IRepositorioSubCategoria _repositorioSubCategoria;
+        private readonly IRepositorioSubCategorias _repositorioSubCategoria;
 
-        public SubCategoriasController (IRepositorioSubCategoria repositorioSubCategoria)
+        public SubCategoriasController (IRepositorioSubCategorias repositorioSubCategoria)
         {
             _repositorioSubCategoria = repositorioSubCategoria;
         }
@@ -21,7 +21,7 @@ namespace WebApiSupportFast.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<SubCategorias>>> GetSubCategoria()
         {
-            var subCategorias = await _repositorioSubCategoria.listadoSubCategoria();
+            var subCategorias = await _repositorioSubCategoria.listadoSubCategorias();
             return Ok(subCategorias);
         }
 
@@ -53,7 +53,7 @@ namespace WebApiSupportFast.Controllers
                 return BadRequest();
             }
 
-            await _repositorioSubCategoria.modificarSubCategoria(subCategorias);
+            await _repositorioSubCategoria.modificarSubCategorias(subCategorias);
 
             return NoContent();
         }

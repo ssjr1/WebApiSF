@@ -10,3 +10,12 @@ E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyect
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfo.cs
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.CoreCompileInputs.cache
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.deps.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.runtimeconfig.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\refint\LibreriaSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.genruntimeconfig.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\ref\LibreriaSupportFast.dll
