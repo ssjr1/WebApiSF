@@ -13,8 +13,12 @@ namespace LibreriaSupportFast.Models
 
         public DbSet<Tecnicos> Tecnicos { get; set; }
         public DbSet<Gestiones> Gestiones { get; set; }
+        public DbSet<Categorias> Categorias { get; set; }
+        public DbSet<SubCategorias> SubCategorias { get; set; }
+        public DbSet<Estados> Estados { get; set; }
+        public DbSet<Soluciones> Soluciones { get; set; }
+        public DbSet<Tickets> Tickets { get; set; }
         public DbSet<Areas> Areas { get; set; }
         public DbSet<Ciudades> Ciudades { get; set; }
     }
 }
-
