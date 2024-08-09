@@ -19,15 +19,15 @@ namespace LibreriaSupportFast.Repositorios
         {
             context.Tecnicos.Add(tecnico);
             await context.SaveChangesAsync();
-            return tecnico.id;
+            return tecnico.Id;
         }
         public async Task<int> modificarTecnico(Tecnicos tecnico)
         {
-            Tecnicos tec = await context.Tecnicos.FindAsync(tecnico.id);
-            tec.id = tecnico.id;
-            tec.c_Tecnico = tecnico.c_Tecnico;
+            Tecnicos tec = await context.Tecnicos.FindAsync(tecnico.Id);
+            tec.Id = tecnico.Id;
+            tec.C_Tecnico = tecnico.C_Tecnico;
             await context.SaveChangesAsync();
-            return tecnico.id;
+            return tecnico.Id;
         }
         public Task<List<Tecnicos>> listadoTecnicos()
         {

@@ -8,10 +8,10 @@ namespace LibreriaSupportFast.Models
 {
     public class Categorias
     {
-        public int id { get; set; }
-        public string c_Categoria { get; set; }
+        public int Id { get; set; }
+        public string C_Categoria { get; set; }
 
-        public int id_TecnicoDefault { get; set; }
-        public Tecnicos tecnicos { get; set; }
+        public int Id_TecnicoDefault { get; set; }
+        public Tecnicos Tecnicos { get; set; }
     }
 }

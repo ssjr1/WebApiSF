@@ -43,7 +43,7 @@ namespace LibreriaSupportFast.Repositorios
 
         public async Task<Areas> ObtenerAreaPorId(int id)
         {
-            return await _context.Areas.FirstOrDefaultAsync(a => a.id == id);
+            return await _context.Areas.FirstOrDefaultAsync(a => a.Id == id);
         }
     }
 }

@@ -8,7 +8,7 @@ namespace LibreriaSupportFast.Models
 {
     public class Ciudades
     {
-        public int id { get; set; }
-        public string c_Ciudad { get; set; }
+        public int Id { get; set; }
+        public string C_Ciudad { get; set; }
     }
 }

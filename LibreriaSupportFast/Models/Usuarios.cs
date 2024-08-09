@@ -9,7 +9,7 @@ namespace LibreriaSupportFast.Models
 {
     public class Usuarios
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public string c_Cedula { get; set; }
         public string c_Nombres { get; set; }
         public string c_Apellidos { get; set; }

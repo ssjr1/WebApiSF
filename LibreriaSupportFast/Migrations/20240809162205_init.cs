@@ -15,121 +15,121 @@ namespace LibreriaSupportFast.Migrations
                 name: "Areas",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Area = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    C_Area = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Areas", x => x.id);
+                    table.PrimaryKey("PK_Areas", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Ciudades",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Ciudad = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    C_Ciudad = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Ciudades", x => x.id);
+                    table.PrimaryKey("PK_Ciudades", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Estados",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Estado = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    C_Estado = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Estados", x => x.id);
+                    table.PrimaryKey("PK_Estados", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Perfiles",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Perfil = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    C_Perfil = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Perfiles", x => x.id);
+                    table.PrimaryKey("PK_Perfiles", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Soluciones",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Solucion = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    l_solucion_definitiva = table.Column<bool>(type: "bit", nullable: false)
+                    C_Solucion = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    L_solucion_definitiva = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Soluciones", x => x.id);
+                    table.PrimaryKey("PK_Soluciones", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Tecnicos",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Tecnico = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    C_Tecnico = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Tecnicos", x => x.id);
+                    table.PrimaryKey("PK_Tecnicos", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Usuarios",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     c_Cedula = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     c_Nombres = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     c_Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     f_FecNacimiento = table.Column<DateTime>(type: "datetime2", nullable: false),
                     id_CodPerfil = table.Column<int>(type: "int", nullable: false),
-                    perfilesid = table.Column<int>(type: "int", nullable: false),
+                    perfilesId = table.Column<int>(type: "int", nullable: false),
                     id_Area = table.Column<int>(type: "int", nullable: false),
-                    areasid = table.Column<int>(type: "int", nullable: false),
+                    areasId = table.Column<int>(type: "int", nullable: false),
                     id_Ciudad = table.Column<int>(type: "int", nullable: false),
-                    ciudadesid = table.Column<int>(type: "int", nullable: false),
+                    ciudadesId = table.Column<int>(type: "int", nullable: false),
                     c_Direccione = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     f_FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false),
                     f_FechaModificacion = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Usuarios", x => x.id);
+                    table.PrimaryKey("PK_Usuarios", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Usuarios_Areas_areasid",
-                        column: x => x.areasid,
+                        name: "FK_Usuarios_Areas_areasId",
+                        column: x => x.areasId,
                         principalTable: "Areas",
-                        principalColumn: "id",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Usuarios_Ciudades_ciudadesid",
-                        column: x => x.ciudadesid,
+                        name: "FK_Usuarios_Ciudades_ciudadesId",
+                        column: x => x.ciudadesId,
                         principalTable: "Ciudades",
-                        principalColumn: "id",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Usuarios_Perfiles_perfilesid",
-                        column: x => x.perfilesid,
+                        name: "FK_Usuarios_Perfiles_perfilesId",
+                        column: x => x.perfilesId,
                         principalTable: "Perfiles",
-                        principalColumn: "id",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -137,20 +137,20 @@ namespace LibreriaSupportFast.Migrations
                 name: "Categorias",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Categoria = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    id_TecnicoDefault = table.Column<int>(type: "int", nullable: false),
-                    tecnicosid = table.Column<int>(type: "int", nullable: false)
+                    C_Categoria = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Id_TecnicoDefault = table.Column<int>(type: "int", nullable: false),
+                    TecnicosId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Categorias", x => x.id);
+                    table.PrimaryKey("PK_Categorias", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Categorias_Tecnicos_tecnicosid",
-                        column: x => x.tecnicosid,
+                        name: "FK_Categorias_Tecnicos_TecnicosId",
+                        column: x => x.TecnicosId,
                         principalTable: "Tecnicos",
-                        principalColumn: "id",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -158,62 +158,58 @@ namespace LibreriaSupportFast.Migrations
                 name: "Gestiones",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    id_Ticket = table.Column<int>(type: "int", nullable: false),
-                    id_categoria = table.Column<int>(type: "int", nullable: false),
-                    categoriasid = table.Column<int>(type: "int", nullable: false),
-                    id_subcategoria = table.Column<int>(type: "int", nullable: false),
-                    id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
-                    id_solucion = table.Column<int>(type: "int", nullable: false),
-                    solucionesid = table.Column<int>(type: "int", nullable: false),
-                    id_estado = table.Column<int>(type: "int", nullable: false),
-                    estadosid = table.Column<int>(type: "int", nullable: false),
-                    f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    Id_Ticket = table.Column<int>(type: "int", nullable: false),
+                    Id_categoria = table.Column<int>(type: "int", nullable: false),
+                    CategoriasId = table.Column<int>(type: "int", nullable: true),
+                    Id_subcategoria = table.Column<int>(type: "int", nullable: false),
+                    Id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
+                    Id_solucion = table.Column<int>(type: "int", nullable: false),
+                    SolucionesId = table.Column<int>(type: "int", nullable: true),
+                    Id_estado = table.Column<int>(type: "int", nullable: false),
+                    EstadosId = table.Column<int>(type: "int", nullable: true),
+                    F_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    F_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Gestiones", x => x.id);
+                    table.PrimaryKey("PK_Gestiones", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Gestiones_Categorias_categoriasid",
-                        column: x => x.categoriasid,
+                        name: "FK_Gestiones_Categorias_CategoriasId",
+                        column: x => x.CategoriasId,
                         principalTable: "Categorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Gestiones_Estados_estadosid",
-                        column: x => x.estadosid,
+                        name: "FK_Gestiones_Estados_EstadosId",
+                        column: x => x.EstadosId,
                         principalTable: "Estados",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Gestiones_Soluciones_solucionesid",
-                        column: x => x.solucionesid,
+                        name: "FK_Gestiones_Soluciones_SolucionesId",
+                        column: x => x.SolucionesId,
                         principalTable: "Soluciones",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
                 name: "SubCategorias",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    id_Categoria = table.Column<int>(type: "int", nullable: false),
-                    categoriasid = table.Column<int>(type: "int", nullable: false),
-                    c_SubCategoria = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Id_Categoria = table.Column<int>(type: "int", nullable: false),
+                    CategoriasId = table.Column<int>(type: "int", nullable: true),
+                    C_SubCategoria = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_SubCategorias", x => x.id);
+                    table.PrimaryKey("PK_SubCategorias", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_SubCategorias_Categorias_categoriasid",
-                        column: x => x.categoriasid,
+                        name: "FK_SubCategorias_Categorias_CategoriasId",
+                        column: x => x.CategoriasId,
                         principalTable: "Categorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -338,99 +334,96 @@ namespace LibreriaSupportFast.Migrations
                 name: "Tickets",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    id_categoria = table.Column<int>(type: "int", nullable: false),
-                    categoriasid = table.Column<int>(type: "int", nullable: false),
-                    id_SubCategoria = table.Column<int>(type: "int", nullable: false),
-                    id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
-                    id_solucion = table.Column<int>(type: "int", nullable: false),
-                    solucionesid = table.Column<int>(type: "int", nullable: false),
-                    id_estado = table.Column<int>(type: "int", nullable: false),
-                    estadosid = table.Column<int>(type: "int", nullable: false),
-                    f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    f_fecha_Ultima_Gestion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    C_Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Id_categoria = table.Column<int>(type: "int", nullable: false),
+                    CategoriasId = table.Column<int>(type: "int", nullable: true),
+                    Id_SubCategoria = table.Column<int>(type: "int", nullable: false),
+                    Id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
+                    Id_solucion = table.Column<int>(type: "int", nullable: false),
+                    SolucionesId = table.Column<int>(type: "int", nullable: true),
+                    Id_estado = table.Column<int>(type: "int", nullable: false),
+                    EstadosId = table.Column<int>(type: "int", nullable: true),
+                    F_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    F_fecha_Ultima_Gestion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    F_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Tickets", x => x.id);
+                    table.PrimaryKey("PK_Tickets", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Tickets_Categorias_categoriasid",
-                        column: x => x.categoriasid,
+                        name: "FK_Tickets_Categorias_CategoriasId",
+                        column: x => x.CategoriasId,
                         principalTable: "Categorias",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Tickets_Estados_estadosid",
-                        column: x => x.estadosid,
+                        name: "FK_Tickets_Estados_EstadosId",
+                        column: x => x.EstadosId,
                         principalTable: "Estados",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Tickets_Soluciones_solucionesid",
-                        column: x => x.solucionesid,
+                        name: "FK_Tickets_Soluciones_SolucionesId",
+                        column: x => x.SolucionesId,
                         principalTable: "Soluciones",
-                        principalColumn: "id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 >>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.cs
 
             migrationBuilder.CreateIndex(
-                name: "IX_Categorias_tecnicosid",
+                name: "IX_Categorias_TecnicosId",
                 table: "Categorias",
-                column: "tecnicosid");
+                column: "TecnicosId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_categoriasid",
+                name: "IX_Gestiones_CategoriasId",
                 table: "Gestiones",
-                column: "categoriasid");
+                column: "CategoriasId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_estadosid",
+                name: "IX_Gestiones_EstadosId",
                 table: "Gestiones",
-                column: "estadosid");
+                column: "EstadosId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Gestiones_solucionesid",
+                name: "IX_Gestiones_SolucionesId",
                 table: "Gestiones",
-                column: "solucionesid");
+                column: "SolucionesId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_SubCategorias_categoriasid",
+                name: "IX_SubCategorias_CategoriasId",
                 table: "SubCategorias",
-                column: "categoriasid");
+                column: "CategoriasId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Tickets_categoriasid",
+                name: "IX_Tickets_CategoriasId",
                 table: "Tickets",
-                column: "categoriasid");
+                column: "CategoriasId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Tickets_estadosid",
+                name: "IX_Tickets_EstadosId",
                 table: "Tickets",
-                column: "estadosid");
+                column: "EstadosId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Tickets_solucionesid",
+                name: "IX_Tickets_SolucionesId",
                 table: "Tickets",
-                column: "solucionesid");
+                column: "SolucionesId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_areasid",
+                name: "IX_Usuarios_areasId",
                 table: "Usuarios",
-                column: "areasid");
+                column: "areasId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_ciudadesid",
+                name: "IX_Usuarios_ciudadesId",
                 table: "Usuarios",
-                column: "ciudadesid");
+                column: "ciudadesId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_perfilesid",
+                name: "IX_Usuarios_perfilesId",
                 table: "Usuarios",
-                column: "perfilesid");
+                column: "perfilesId");
         }
 
         /// <inheritdoc />

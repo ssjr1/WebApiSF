@@ -43,7 +43,7 @@ namespace LibreriaSupportFast.Repositorios
 
         public async Task<Ciudades> ObtenerCiudadPorId(int id)
         {
-            return await _context.Ciudades.FirstOrDefaultAsync(c => c.id == id);
+            return await _context.Ciudades.FirstOrDefaultAsync(c => c.Id == id);
         }
     }
 }

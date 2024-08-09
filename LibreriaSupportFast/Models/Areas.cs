@@ -8,7 +8,7 @@ namespace LibreriaSupportFast.Models
 {
     public class Areas
     {
-        public int id { get; set; }
-        public string c_Area { get; set; }
+        public int Id { get; set; }
+        public string C_Area { get; set; }
     }
 }
