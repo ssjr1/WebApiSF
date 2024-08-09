@@ -8,8 +8,8 @@ namespace LibreriaSupportFast.Models
 {
     public class Estados
     {
-        public int id { get; set; }
-        public string c_Estado { get; set; }
+        public int Id { get; set; }
+        public string C_Estado { get; set; }
 
     }
 }
