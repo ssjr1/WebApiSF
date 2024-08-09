@@ -20,7 +20,7 @@ namespace LibreriaSupportFast.Models
         public Areas? Areas { get; set; }
         public int Id_Ciudad { get; set; }
         public Ciudades? Ciudades { get; set; }
-        public string C_Direccione { get; set; }
+        public string C_Direcciones { get; set; }
         public DateTime F_FechaCreacion { get; set; }
         public DateTime F_FechaModificacion { get; set; }
     }

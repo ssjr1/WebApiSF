@@ -9,10 +9,10 @@ namespace LibreriaSupportFast.Repositorios
 {
     public interface IRepositorioTecnico
     {
-        Task<int> crearTecnico(Tecnicos tecnico);
-        Task<int> modificarTecnico(Tecnicos tecnico);
-        Task<List<Tecnicos>> listadoTecnicos();
-        Task eliminarTecnico(int id);
-        Task<Tecnicos> obtenerTecnicoPorId(int id);
+        Task<int> CrearTecnico(Tecnicos tecnico);
+        Task<int> ModificarTecnico(Tecnicos tecnico);
+        Task<List<Tecnicos>> ListadoTecnicos();
+        Task EliminarTecnico(int id);
+        Task<Tecnicos> ObtenerTecnicoPorId(int id);
     }
 }

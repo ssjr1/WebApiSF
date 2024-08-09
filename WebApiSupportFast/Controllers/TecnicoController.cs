@@ -21,14 +21,14 @@ namespace WebApiSupportFast.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Tecnicos>>> GetTecnicos()
         {
-            var tecnicos = await _repositorioTecnico.listadoTecnicos();
+            var tecnicos = await _repositorioTecnico.ListadoTecnicos();
             return Ok(tecnicos);
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Tecnicos>> GetTecnico(int id)
         {
-            var tecnico = await _repositorioTecnico.obtenerTecnicoPorId(id);
+            var tecnico = await _repositorioTecnico.ObtenerTecnicoPorId(id);
 
             if (tecnico == null)
             {
@@ -41,7 +41,7 @@ namespace WebApiSupportFast.Controllers
         [HttpPost]
         public async Task<ActionResult<Tecnicos>> PostTecnico(Tecnicos tecnico)
         {
-            var id = await _repositorioTecnico.crearTecnico(tecnico);
+            var id = await _repositorioTecnico.CrearTecnico(tecnico);
             return CreatedAtAction(nameof(GetTecnico), new { id = id }, tecnico);
         }
 
@@ -53,7 +53,7 @@ namespace WebApiSupportFast.Controllers
                 return BadRequest();
             }
 
-            await _repositorioTecnico.modificarTecnico(tecnico);
+            await _repositorioTecnico.ModificarTecnico(tecnico);
 
             return NoContent();
         }
@@ -61,14 +61,14 @@ namespace WebApiSupportFast.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTecnico(int id)
         {
-            var tecnico = await _repositorioTecnico.obtenerTecnicoPorId(id);
+            var tecnico = await _repositorioTecnico.ObtenerTecnicoPorId(id);
 
             if (tecnico == null)
             {
                 return NotFound();
             }
 
-            await _repositorioTecnico.eliminarTecnico(id);
+            await _repositorioTecnico.EliminarTecnico(id);
 
             return NoContent();
         }

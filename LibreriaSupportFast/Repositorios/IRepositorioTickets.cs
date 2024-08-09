@@ -9,10 +9,10 @@ namespace LibreriaSupportFast.Repositorios
 {
     public interface IRepositorioTickets
     {
-        Task<int> crearTicket(Tickets tickets);
-        Task<int> modificarTicket(Tickets tickets);
-        Task<List<Tickets>> listadoTickets();
-        Task eliminarTicket(int id);
-        Task<Tickets> obtenerTicketPorId(int id);
+        Task<int> CrearTicket(Tickets tickets);
+        Task<int> ModificarTicket(Tickets tickets);
+        Task<List<Tickets>> ListadoTickets();
+        Task EliminarTicket(int id);
+        Task<Tickets> ObtenerTicketPorId(int id);
     }
 }
