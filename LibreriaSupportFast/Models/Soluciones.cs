@@ -11,6 +11,6 @@ namespace LibreriaSupportFast.Models
         public int Id { get; set; }
         public string C_Solucion { get; set; }
 
-        public bool L_Solucion_Definitiva {  get; set; }
+        public bool L_solucion_definitiva {  get; set; }
     }
 }

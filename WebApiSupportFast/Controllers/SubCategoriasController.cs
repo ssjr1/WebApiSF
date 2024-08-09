@@ -41,8 +41,26 @@ namespace WebApiSupportFast.Controllers
         [HttpPost]
         public async Task<ActionResult<SubCategorias>> PostSubCategoria(SubCategorias subCategorias)
         {
+<<<<<<< HEAD
             var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
             return Ok(id);
+=======
+            //var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
+            //return CreatedAtAction(nameof(GetSubCategoria), new { id = id }, subCategorias);
+
+            try
+            {
+                var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
+                return Ok(id);
+
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.ToString());
+            }
+
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
         }
 
         [HttpPut("{id}")]

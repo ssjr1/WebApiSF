@@ -4,6 +4,7 @@ using LibreriaSupportFast.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,32 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibreriaSupportFast.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
+    [Migration("20240809171200_init")]
+=======
+=======
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
+<<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240808085542_SupportFast.Designer.cs
+    [Migration("20240808085542_SupportFast")]
+    partial class SupportFast
+========
+    [Migration("20240808090128_init")]
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
+>>>>>>> 4cd01abcffdf20eca6f77cc7255f8afb7b58318f:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+    partial class init
+>>>>>>>> 671c96f87ff7d4942696e025613a569428805ce4:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+=======
+=======
+    [Migration("20240809162205_init")]
+>>>>>>> 3147d807675b1020fe1b2fef9b0f1bfc9a4a392a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
+    partial class init
+>>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -112,27 +136,6 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int?>("EstadosId")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-                    b.Property<DateTime>("F_Fecha_cierre")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("F_Fecha_creacion")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("Id_Categoria")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_Estado")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_Solucion")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_SubCategoria")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_Ticket")
-=======
                     b.Property<DateTime>("F_fecha_cierre")
                         .HasColumnType("datetime2");
 
@@ -152,7 +155,6 @@ namespace LibreriaSupportFast.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("Id_subcategoria")
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                         .HasColumnType("int");
 
                     b.Property<int>("Id_tecnico_asignado")
@@ -161,16 +163,6 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int?>("SolucionesId")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-                    b.Property<int?>("SubCategoriasId")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("TecnicosId")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("TicketId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.HasIndex("CategoriasId");
@@ -178,21 +170,6 @@ namespace LibreriaSupportFast.Migrations
                     b.HasIndex("EstadosId");
 
                     b.HasIndex("SolucionesId");
-
-                    b.HasIndex("SubCategoriasId");
-
-                    b.HasIndex("TecnicosId");
-
-                    b.HasIndex("TicketId");
-=======
-                    b.HasKey("Id");
-
-                    b.HasIndex("CategoriasId");
-
-                    b.HasIndex("EstadosId");
-
-                    b.HasIndex("SolucionesId");
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
 
                     b.ToTable("Gestiones");
                 });
@@ -226,11 +203,7 @@ namespace LibreriaSupportFast.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-<<<<<<< HEAD
-                    b.Property<bool>("L_Solucion_Definitiva")
-=======
                     b.Property<bool>("L_solucion_definitiva")
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                         .HasColumnType("bit");
 
                     b.HasKey("Id");
@@ -298,30 +271,6 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int?>("EstadosId")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-                    b.Property<DateTime>("F_Fecha_Ultima_Gestion")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("F_Fecha_cierre")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("F_Fecha_creacion")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("Id_Estado")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_Solucion")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_SubCategoria")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_Tecnico_asignado")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Id_categoria")
-=======
                     b.Property<DateTime>("F_fecha_Ultima_Gestion")
                         .HasColumnType("datetime2");
 
@@ -344,19 +293,11 @@ namespace LibreriaSupportFast.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("Id_tecnico_asignado")
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                         .HasColumnType("int");
 
                     b.Property<int?>("SolucionesId")
                         .HasColumnType("int");
 
-<<<<<<< HEAD
-                    b.Property<int?>("SubCategoriasId")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("TecnicosId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.HasIndex("CategoriasId");
@@ -364,19 +305,6 @@ namespace LibreriaSupportFast.Migrations
                     b.HasIndex("EstadosId");
 
                     b.HasIndex("SolucionesId");
-
-                    b.HasIndex("SubCategoriasId");
-
-                    b.HasIndex("TecnicosId");
-=======
-                    b.HasKey("Id");
-
-                    b.HasIndex("CategoriasId");
-
-                    b.HasIndex("EstadosId");
-
-                    b.HasIndex("SolucionesId");
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
 
                     b.ToTable("Tickets");
                 });
@@ -400,11 +328,7 @@ namespace LibreriaSupportFast.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-<<<<<<< HEAD
-                    b.Property<string>("C_Direccione")
-=======
                     b.Property<string>("C_Direcciones")
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -470,37 +394,11 @@ namespace LibreriaSupportFast.Migrations
                         .WithMany()
                         .HasForeignKey("SolucionesId");
 
-<<<<<<< HEAD
-                    b.HasOne("LibreriaSupportFast.Models.SubCategorias", "SubCategorias")
-                        .WithMany()
-                        .HasForeignKey("SubCategoriasId");
-
-                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "Tecnicos")
-                        .WithMany()
-                        .HasForeignKey("TecnicosId");
-
-                    b.HasOne("LibreriaSupportFast.Models.Tickets", "Ticket")
-                        .WithMany()
-                        .HasForeignKey("TicketId");
-
                     b.Navigation("Categorias");
 
                     b.Navigation("Estados");
 
                     b.Navigation("Soluciones");
-
-                    b.Navigation("SubCategorias");
-
-                    b.Navigation("Tecnicos");
-
-                    b.Navigation("Ticket");
-=======
-                    b.Navigation("Categorias");
-
-                    b.Navigation("Estados");
-
-                    b.Navigation("Soluciones");
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.SubCategorias", b =>
@@ -526,31 +424,11 @@ namespace LibreriaSupportFast.Migrations
                         .WithMany()
                         .HasForeignKey("SolucionesId");
 
-<<<<<<< HEAD
-                    b.HasOne("LibreriaSupportFast.Models.SubCategorias", "SubCategorias")
-                        .WithMany()
-                        .HasForeignKey("SubCategoriasId");
-
-                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "Tecnicos")
-                        .WithMany()
-                        .HasForeignKey("TecnicosId");
-
                     b.Navigation("Categorias");
 
                     b.Navigation("Estados");
 
                     b.Navigation("Soluciones");
-
-                    b.Navigation("SubCategorias");
-
-                    b.Navigation("Tecnicos");
-=======
-                    b.Navigation("Categorias");
-
-                    b.Navigation("Estados");
-
-                    b.Navigation("Soluciones");
->>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Usuarios", b =>

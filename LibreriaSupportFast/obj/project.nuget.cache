@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Hwg7fgkArz8=",
   "success": true,
   "projectFilePath": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\WebApiSF\\LibreriaSupportFast\\LibreriaSupportFast.csproj",
+=======
+  "dgSpecHash": "WOlAjtWf25w=",
+  "success": true,
+  "projectFilePath": "E:\\Estatal\\7mo Nivel\\DESARROLLO DE APLICACIONES WEB AVANZADO\\2do Parcial\\Proyecto FInal\\WebApiSF_Local\\LibreriaSupportFast\\LibreriaSupportFast.csproj",
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
   "expectedPackageFiles": [
     "C:\\Users\\wladimir.alvarezl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\wladimir.alvarezl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

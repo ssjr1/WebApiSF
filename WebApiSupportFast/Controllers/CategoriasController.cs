@@ -4,6 +4,10 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+=======
+using static LibreriaSupportFast.Repositorios.RepositorioSubCategorias;
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
 
 namespace WebApiSupportFast.Controllers
 {
@@ -41,8 +45,22 @@ namespace WebApiSupportFast.Controllers
         [HttpPost]
         public async Task<ActionResult<Categorias>> PostCategoria(Categorias Categoria)
         {
+<<<<<<< HEAD
             var id = await _repositorioCategoria.CrearCategoria(Categoria);
             return CreatedAtAction(nameof(GetCategoria), new { id = id }, Categoria);
+=======
+            try
+            {
+                var id = await _repositorioCategoria.CrearCategoria(Categoria);
+                return Ok(id);
+
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.ToString());
+            }
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
         }
 
         [HttpPut("{id}")]

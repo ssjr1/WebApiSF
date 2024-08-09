@@ -23,6 +23,7 @@ namespace LibreriaSupportFast.Repositorios
                 await context.SaveChangesAsync();
                 return subCategorias.Id;
             }
+
             public async Task<int> modificarSubCategorias(SubCategorias subCategorias)
             {
                 SubCategorias sub = await context.SubCategorias.FindAsync(subCategorias.Id);

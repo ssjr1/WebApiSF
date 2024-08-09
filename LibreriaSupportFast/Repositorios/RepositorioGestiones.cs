@@ -31,7 +31,11 @@ namespace LibreriaSupportFast.Repositorios
             return await _context.Gestiones
                 .Include(g => g.Id_Ticket)
                 .Include(g => g.Categorias)
+<<<<<<< HEAD
                 .Include(g => g.Id_SubCategoria)
+=======
+                .Include(g => g.Id_subcategoria)
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                 .Include(g => g.Id_tecnico_asignado)
                 .Include(g => g.Soluciones)
                 .Include(g => g.Estados)
@@ -53,7 +57,11 @@ namespace LibreriaSupportFast.Repositorios
             return await _context.Gestiones
                 .Include(g => g.Id_Ticket)
                 .Include(g => g.Categorias)
+<<<<<<< HEAD
                 .Include(g => g.Id_SubCategoria)
+=======
+                .Include(g => g.Id_subcategoria)
+>>>>>>> 735d03c26e28ffd077cda4add6c062b853091aac
                 .Include(g => g.Id_tecnico_asignado)
                 .Include(g => g.Soluciones)
                 .Include(g => g.Estados)
