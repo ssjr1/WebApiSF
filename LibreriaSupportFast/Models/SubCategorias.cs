@@ -10,7 +10,7 @@ namespace LibreriaSupportFast.Models
     {
         public int Id { get; set; }
         public int Id_Categoria { get; set; }
-        public Categorias Categorias { get; set; }
+        public Categorias? Categorias { get; set; }
         public string C_SubCategoria { get; set; }
     }
 }

@@ -15,11 +15,11 @@ namespace LibreriaSupportFast.Models
         public string C_Apellidos { get; set; }
         public DateTime F_FecNacimiento { get; set; }
         public int Id_CodPerfil { get; set; }
-        public Perfiles Perfiles { get; set; }
+        public Perfiles? Perfiles { get; set; }
         public int Id_Area { get; set; }
-        public Areas Areas { get; set; }
+        public Areas? Areas { get; set; }
         public int Id_Ciudad { get; set; }
-        public Ciudades Ciudades { get; set; }
+        public Ciudades? Ciudades { get; set; }
         public string C_Direccione { get; set; }
         public DateTime F_FechaCreacion { get; set; }
         public DateTime F_FechaModificacion { get; set; }
