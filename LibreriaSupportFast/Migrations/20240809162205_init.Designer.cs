@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibreriaSupportFast.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240808090128_init")]
+    [Migration("20240809162205_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -27,276 +27,276 @@ namespace LibreriaSupportFast.Migrations
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Areas", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Area")
+                    b.Property<string>("C_Area")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Areas");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Categorias", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Categoria")
+                    b.Property<string>("C_Categoria")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("id_TecnicoDefault")
+                    b.Property<int>("Id_TecnicoDefault")
                         .HasColumnType("int");
 
-                    b.Property<int>("tecnicosid")
+                    b.Property<int>("TecnicosId")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("tecnicosid");
+                    b.HasIndex("TecnicosId");
 
                     b.ToTable("Categorias");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Ciudades", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Ciudad")
+                    b.Property<string>("C_Ciudad")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Ciudades");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Estados", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Estado")
+                    b.Property<string>("C_Estado")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Estados");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Gestiones", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("categoriasid")
+                    b.Property<int?>("CategoriasId")
                         .HasColumnType("int");
 
-                    b.Property<int>("estadosid")
+                    b.Property<int?>("EstadosId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("f_fecha_cierre")
+                    b.Property<DateTime>("F_fecha_cierre")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("f_fecha_creacion")
+                    b.Property<DateTime>("F_fecha_creacion")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("id_Ticket")
+                    b.Property<int>("Id_Ticket")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_categoria")
+                    b.Property<int>("Id_categoria")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_estado")
+                    b.Property<int>("Id_estado")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_solucion")
+                    b.Property<int>("Id_solucion")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_subcategoria")
+                    b.Property<int>("Id_subcategoria")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_tecnico_asignado")
+                    b.Property<int>("Id_tecnico_asignado")
                         .HasColumnType("int");
 
-                    b.Property<int>("solucionesid")
+                    b.Property<int?>("SolucionesId")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("categoriasid");
+                    b.HasIndex("CategoriasId");
 
-                    b.HasIndex("estadosid");
+                    b.HasIndex("EstadosId");
 
-                    b.HasIndex("solucionesid");
+                    b.HasIndex("SolucionesId");
 
                     b.ToTable("Gestiones");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Perfiles", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Perfil")
+                    b.Property<string>("C_Perfil")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Perfiles");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Soluciones", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Solucion")
+                    b.Property<string>("C_Solucion")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("l_solucion_definitiva")
+                    b.Property<bool>("L_solucion_definitiva")
                         .HasColumnType("bit");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Soluciones");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.SubCategorias", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_SubCategoria")
+                    b.Property<string>("C_SubCategoria")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("categoriasid")
+                    b.Property<int?>("CategoriasId")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_Categoria")
+                    b.Property<int>("Id_Categoria")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("categoriasid");
+                    b.HasIndex("CategoriasId");
 
                     b.ToTable("SubCategorias");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Tecnicos", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Tecnico")
+                    b.Property<string>("C_Tecnico")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
                     b.ToTable("Tecnicos");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Tickets", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("c_Descripcion")
+                    b.Property<string>("C_Descripcion")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("categoriasid")
+                    b.Property<int?>("CategoriasId")
                         .HasColumnType("int");
 
-                    b.Property<int>("estadosid")
+                    b.Property<int?>("EstadosId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("f_fecha_Ultima_Gestion")
+                    b.Property<DateTime>("F_fecha_Ultima_Gestion")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("f_fecha_cierre")
+                    b.Property<DateTime>("F_fecha_cierre")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("f_fecha_creacion")
+                    b.Property<DateTime>("F_fecha_creacion")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("id_SubCategoria")
+                    b.Property<int>("Id_SubCategoria")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_categoria")
+                    b.Property<int>("Id_categoria")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_estado")
+                    b.Property<int>("Id_estado")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_solucion")
+                    b.Property<int>("Id_solucion")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_tecnico_asignado")
+                    b.Property<int>("Id_tecnico_asignado")
                         .HasColumnType("int");
 
-                    b.Property<int>("solucionesid")
+                    b.Property<int?>("SolucionesId")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("categoriasid");
+                    b.HasIndex("CategoriasId");
 
-                    b.HasIndex("estadosid");
+                    b.HasIndex("EstadosId");
 
-                    b.HasIndex("solucionesid");
+                    b.HasIndex("SolucionesId");
 
                     b.ToTable("Tickets");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Usuarios", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("areasid")
+                    b.Property<int>("areasId")
                         .HasColumnType("int");
 
                     b.Property<string>("c_Apellidos")
@@ -315,7 +315,7 @@ namespace LibreriaSupportFast.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ciudadesid")
+                    b.Property<int>("ciudadesId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("f_FecNacimiento")
@@ -336,113 +336,99 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int>("id_CodPerfil")
                         .HasColumnType("int");
 
-                    b.Property<int>("perfilesid")
+                    b.Property<int>("perfilesId")
                         .HasColumnType("int");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("areasid");
+                    b.HasIndex("areasId");
 
-                    b.HasIndex("ciudadesid");
+                    b.HasIndex("ciudadesId");
 
-                    b.HasIndex("perfilesid");
+                    b.HasIndex("perfilesId");
 
                     b.ToTable("Usuarios");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Categorias", b =>
                 {
-                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "tecnicos")
+                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "Tecnicos")
                         .WithMany()
-                        .HasForeignKey("tecnicosid")
+                        .HasForeignKey("TecnicosId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("tecnicos");
+                    b.Navigation("Tecnicos");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Gestiones", b =>
                 {
-                    b.HasOne("LibreriaSupportFast.Models.Categorias", "categorias")
+                    b.HasOne("LibreriaSupportFast.Models.Categorias", "Categorias")
                         .WithMany()
-                        .HasForeignKey("categoriasid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoriasId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Estados", "estados")
+                    b.HasOne("LibreriaSupportFast.Models.Estados", "Estados")
                         .WithMany()
-                        .HasForeignKey("estadosid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EstadosId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Soluciones", "soluciones")
+                    b.HasOne("LibreriaSupportFast.Models.Soluciones", "Soluciones")
                         .WithMany()
-                        .HasForeignKey("solucionesid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("SolucionesId");
 
-                    b.Navigation("categorias");
+                    b.Navigation("Categorias");
 
-                    b.Navigation("estados");
+                    b.Navigation("Estados");
 
-                    b.Navigation("soluciones");
+                    b.Navigation("Soluciones");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.SubCategorias", b =>
                 {
-                    b.HasOne("LibreriaSupportFast.Models.Categorias", "categorias")
+                    b.HasOne("LibreriaSupportFast.Models.Categorias", "Categorias")
                         .WithMany()
-                        .HasForeignKey("categoriasid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoriasId");
 
-                    b.Navigation("categorias");
+                    b.Navigation("Categorias");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Tickets", b =>
                 {
-                    b.HasOne("LibreriaSupportFast.Models.Categorias", "categorias")
+                    b.HasOne("LibreriaSupportFast.Models.Categorias", "Categorias")
                         .WithMany()
-                        .HasForeignKey("categoriasid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoriasId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Estados", "estados")
+                    b.HasOne("LibreriaSupportFast.Models.Estados", "Estados")
                         .WithMany()
-                        .HasForeignKey("estadosid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EstadosId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Soluciones", "soluciones")
+                    b.HasOne("LibreriaSupportFast.Models.Soluciones", "Soluciones")
                         .WithMany()
-                        .HasForeignKey("solucionesid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("SolucionesId");
 
-                    b.Navigation("categorias");
+                    b.Navigation("Categorias");
 
-                    b.Navigation("estados");
+                    b.Navigation("Estados");
 
-                    b.Navigation("soluciones");
+                    b.Navigation("Soluciones");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Usuarios", b =>
                 {
                     b.HasOne("LibreriaSupportFast.Models.Areas", "areas")
                         .WithMany()
-                        .HasForeignKey("areasid")
+                        .HasForeignKey("areasId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("LibreriaSupportFast.Models.Ciudades", "ciudades")
                         .WithMany()
-                        .HasForeignKey("ciudadesid")
+                        .HasForeignKey("ciudadesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("LibreriaSupportFast.Models.Perfiles", "perfiles")
                         .WithMany()
-                        .HasForeignKey("perfilesid")
+                        .HasForeignKey("perfilesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

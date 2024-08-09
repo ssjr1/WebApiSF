@@ -6,7 +6,7 @@ namespace LibreriaSupportFast.Models
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       /* protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=.;Database=SupportFast;Integrated Security=True;TrustServerCertificate=True;");
         }*/

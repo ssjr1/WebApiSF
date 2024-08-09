@@ -48,7 +48,7 @@ namespace WebApiSupportFast.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTicket(int id, Tickets Tickets)
         {
-            if (id != Tickets.id)
+            if (id != Tickets.Id)
             {
                 return BadRequest();
             }

@@ -8,10 +8,10 @@ namespace LibreriaSupportFast.Models
 {
     public class SubCategorias
     {
-        public int id { get; set; }
-        public int id_Categoria { get; set; }
-        public Categorias categorias { get; set; }
+        public int Id { get; set; }
+        public int Id_Categoria { get; set; }
+        public Categorias? Categorias { get; set; }
 
-        public string c_SubCategoria { get; set; }
+        public string C_SubCategoria { get; set; } = null;
     }
 }

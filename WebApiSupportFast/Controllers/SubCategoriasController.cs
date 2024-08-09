@@ -41,14 +41,27 @@ namespace WebApiSupportFast.Controllers
         [HttpPost]
         public async Task<ActionResult<SubCategorias>> PostSubCategoria(SubCategorias subCategorias)
         {
-            var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
-            return CreatedAtAction(nameof(GetSubCategoria), new { id = id }, subCategorias);
+            //var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
+            //return CreatedAtAction(nameof(GetSubCategoria), new { id = id }, subCategorias);
+
+            try
+            {
+                var id = await _repositorioSubCategoria.crearSubCategoria(subCategorias);
+                return Ok(id);
+
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.ToString());
+            }
+
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> PutSubcategoria(int id, SubCategorias subCategorias)
         {
-            if (id != subCategorias.id)
+            if (id != subCategorias.Id)
             {
                 return BadRequest();
             }
