@@ -18,7 +18,11 @@ namespace LibreriaSupportFast.Migrations
 ========
     [Migration("20240808090128_init")]
     partial class init
+<<<<<<< HEAD
 >>>>>>>> 671c96f87ff7d4942696e025613a569428805ce4:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+=======
+>>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace LibreriaSupportFast.Migrations
 {
     /// <inheritdoc />
-    public partial class init : Migration
+    public partial class SupportFast : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -209,6 +209,124 @@ namespace LibreriaSupportFast.Migrations
                 });
 
             migrationBuilder.CreateTable(
+<<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240808085542_SupportFast.cs
+            name: "Tickets",
+            columns: table => new
+            {
+                id = table.Column<int>(type: "int", nullable: false)
+                    .Annotation("SqlServer:Identity", "1, 1"),
+                c_Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                id_categoria = table.Column<int>(type: "int", nullable: false),
+                categoriasid = table.Column<int>(type: "int", nullable: false),
+                id_subcategoria = table.Column<int>(type: "int", nullable: false),
+                subCategoriasid = table.Column<int>(type: "int", nullable: false),
+                id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
+                tecnicosid = table.Column<int>(type: "int", nullable: false),
+                id_solucion = table.Column<int>(type: "int", nullable: false),
+                solucionesid = table.Column<int>(type: "int", nullable: false),
+                id_estado = table.Column<int>(type: "int", nullable: false),
+                estadosid = table.Column<int>(type: "int", nullable: false),
+                f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                f_fecha_Ultima_Gestion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
+            },
+            constraints: table =>
+            {
+                table.PrimaryKey("PK_Tickets", x => x.id);
+                table.ForeignKey(
+                    name: "FK_Tickets_Categorias_categoriasid",
+                    column: x => x.categoriasid,
+                    principalTable: "Categorias",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Tickets_Estados_estadosid",
+                    column: x => x.estadosid,
+                    principalTable: "Estados",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Tickets_Soluciones_solucionesid",
+                    column: x => x.solucionesid,
+                    principalTable: "Soluciones",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Tickets_SubCategorias_subCategoriasid",
+                    column: x => x.subCategoriasid,
+                    principalTable: "SubCategorias",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Tickets_Tecnicos_tecnicosid",
+                    column: x => x.tecnicosid,
+                    principalTable: "Tecnicos",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+            });
+
+            migrationBuilder.CreateTable(
+            name: "Gestiones",
+            columns: table => new
+            {
+                id = table.Column<int>(type: "int", nullable: false)
+                    .Annotation("SqlServer:Identity", "1, 1"),
+                id_Ticket = table.Column<int>(type: "int", nullable: false),
+                ticketid = table.Column<int>(type: "int", nullable: false),
+                id_categoria = table.Column<int>(type: "int", nullable: false),
+                categoriasid = table.Column<int>(type: "int", nullable: false),
+                id_subcategoria = table.Column<int>(type: "int", nullable: false),
+                subCategoriasid = table.Column<int>(type: "int", nullable: false),
+                id_tecnico_asignado = table.Column<int>(type: "int", nullable: false),
+                tecnicosid = table.Column<int>(type: "int", nullable: false),
+                id_solucion = table.Column<int>(type: "int", nullable: false),
+                solucionesid = table.Column<int>(type: "int", nullable: false),
+                id_estado = table.Column<int>(type: "int", nullable: false),
+                estadosid = table.Column<int>(type: "int", nullable: false),
+                f_fecha_creacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                f_fecha_cierre = table.Column<DateTime>(type: "datetime2", nullable: false)
+            },
+            constraints: table =>
+            {
+                table.PrimaryKey("PK_Gestiones", x => x.id);
+                table.ForeignKey(
+                    name: "FK_Gestiones_Categorias_categoriasid",
+                    column: x => x.categoriasid,
+                    principalTable: "Categorias",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Gestiones_Estados_estadosid",
+                    column: x => x.estadosid,
+                    principalTable: "Estados",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Gestiones_Soluciones_solucionesid",
+                    column: x => x.solucionesid,
+                    principalTable: "Soluciones",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Gestiones_SubCategorias_subCategoriasid",
+                    column: x => x.subCategoriasid,
+                    principalTable: "SubCategorias",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Gestiones_Tecnicos_tecnicosid",
+                    column: x => x.tecnicosid,
+                    principalTable: "Tecnicos",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+                table.ForeignKey(
+                    name: "FK_Gestiones_Tickets_ticketid",
+                    column: x => x.ticketid,
+                    principalTable: "Tickets",
+                    principalColumn: "id",
+                    onDelete: ReferentialAction.Restrict); // Cambiado a Restrict
+            });
+========
                 name: "Tickets",
                 columns: table => new
                 {
@@ -246,6 +364,7 @@ namespace LibreriaSupportFast.Migrations
                         principalTable: "Soluciones",
                         principalColumn: "Id");
                 });
+>>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.cs
 
             migrationBuilder.CreateIndex(
                 name: "IX_Categorias_TecnicosId",

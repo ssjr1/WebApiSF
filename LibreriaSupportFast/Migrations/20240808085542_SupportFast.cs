@@ -375,7 +375,11 @@ namespace LibreriaSupportFast.Migrations
                         principalColumn: "id",
                         onDelete: ReferentialAction.Cascade);
                 });
+<<<<<<< HEAD
 >>>>>>>> 671c96f87ff7d4942696e025613a569428805ce4:LibreriaSupportFast/Migrations/20240808090128_init.cs
+=======
+>>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a
 
             migrationBuilder.CreateIndex(
                 name: "IX_Categorias_tecnicosid",

@@ -13,16 +13,28 @@ namespace LibreriaSupportFast.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
 <<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
     [Migration("20240809171200_init")]
 =======
+=======
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
 <<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240808085542_SupportFast.Designer.cs
     [Migration("20240808085542_SupportFast")]
     partial class SupportFast
 ========
     [Migration("20240808090128_init")]
+<<<<<<< HEAD:LibreriaSupportFast/Migrations/20240809171200_init.Designer.cs
 >>>>>>> 4cd01abcffdf20eca6f77cc7255f8afb7b58318f:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
     partial class init
 >>>>>>>> 671c96f87ff7d4942696e025613a569428805ce4:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+=======
+=======
+    [Migration("20240809162205_init")]
+>>>>>>> 3147d807675b1020fe1b2fef9b0f1bfc9a4a392a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
+    partial class init
+>>>>>>>> 1b951a99c2096561074a0da66a3a866f633caf6b:LibreriaSupportFast/Migrations/20240808090128_init.Designer.cs
+>>>>>>> dd24dc1e49380b2152e50bb7bb6132930e085c3a:LibreriaSupportFast/Migrations/20240809162205_init.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
