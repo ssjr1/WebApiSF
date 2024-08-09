@@ -21,15 +21,15 @@ namespace LibreriaSupportFast.Repositorios
             {
                 context.SubCategorias.Add(subCategorias);
                 await context.SaveChangesAsync();
-                return subCategorias.id;
+                return subCategorias.Id;
             }
             public async Task<int> modificarSubCategorias(SubCategorias subCategorias)
             {
-                SubCategorias sub = await context.SubCategorias.FindAsync(subCategorias.id);
-                sub.id = subCategorias.id;
-                sub.c_SubCategoria = subCategorias.c_SubCategoria;
+                SubCategorias sub = await context.SubCategorias.FindAsync(subCategorias.Id);
+                sub.Id = subCategorias.Id;
+                sub.C_SubCategoria = subCategorias.C_SubCategoria;
                 await context.SaveChangesAsync();
-                return subCategorias.id;
+                return subCategorias.Id;
             }
             public Task<List<SubCategorias>> listadoSubCategorias()
             {

@@ -48,7 +48,7 @@ namespace WebApiSupportFast.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutSubcategoria(int id, SubCategorias subCategorias)
         {
-            if (id != subCategorias.id)
+            if (id != subCategorias.Id)
             {
                 return BadRequest();
             }

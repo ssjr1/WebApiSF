@@ -48,7 +48,7 @@ namespace WebApiSupportFast.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTecnico(int id, Tecnicos tecnico)
         {
-            if (id != tecnico.id)
+            if (id != tecnico.Id)
             {
                 return BadRequest();
             }

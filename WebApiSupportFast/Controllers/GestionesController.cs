@@ -43,14 +43,14 @@ namespace WebApiSupportFast.Controllers
         public async Task<ActionResult<Gestiones>> PostGestion(Gestiones gestion)
         {
             await _repositorioGestiones.CrearGestion(gestion);
-            return CreatedAtAction(nameof(GetGestion), new { id = gestion.id }, gestion);
+            return CreatedAtAction(nameof(GetGestion), new { id = gestion.Id }, gestion);
         }
 
         // PUT: api/Gestiones/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutGestion(int id, Gestiones gestion)
         {
-            if (id != gestion.id)
+            if (id != gestion.Id)
             {
                 return BadRequest();
             }

@@ -29,12 +29,12 @@ namespace LibreriaSupportFast.Repositorios
         public async Task<List<Gestiones>> ListadoGestiones()
         {
             return await _context.Gestiones
-                .Include(g => g.id_Ticket)
-                .Include(g => g.categorias)
-                .Include(g => g.id_subcategoria)
-                .Include(g => g.id_tecnico_asignado)
-                .Include(g => g.soluciones)
-                .Include(g => g.estados)
+                .Include(g => g.Id_Ticket)
+                .Include(g => g.Categorias)
+                .Include(g => g.Id_SubCategoria)
+                .Include(g => g.Id_tecnico_asignado)
+                .Include(g => g.Soluciones)
+                .Include(g => g.Estados)
                 .ToListAsync();
         }
 
@@ -51,13 +51,13 @@ namespace LibreriaSupportFast.Repositorios
         public async Task<Gestiones> ObtenerGestionPorId(int id)
         {
             return await _context.Gestiones
-                .Include(g => g.id_Ticket)
-                .Include(g => g.categorias)
-                .Include(g => g.id_subcategoria)
-                .Include(g => g.id_tecnico_asignado)
-                .Include(g => g.soluciones)
-                .Include(g => g.estados)
-                .FirstOrDefaultAsync(g => g.id == id);
+                .Include(g => g.Id_Ticket)
+                .Include(g => g.Categorias)
+                .Include(g => g.Id_SubCategoria)
+                .Include(g => g.Id_tecnico_asignado)
+                .Include(g => g.Soluciones)
+                .Include(g => g.Estados)
+                .FirstOrDefaultAsync(g => g.Id == id);
         }
     }
 }

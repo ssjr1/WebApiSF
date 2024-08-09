@@ -21,24 +21,24 @@ namespace LibreriaSupportFast.Repositorios
             {
                 context.Tickets.Add(tickets);
                 await context.SaveChangesAsync();
-                return tickets.id;
+                return tickets.Id;
             }
             public async Task<int> modificarTicket(Tickets tickets)
             {
-                Tickets tic = await context.Tickets.FindAsync(tickets.id);
-                tic.id = tickets.id;
-                tic.c_Descripcion = tickets.c_Descripcion;
-                tic.id_categoria = tickets.id_categoria;
-                tic.id_SubCategoria = tickets.id_SubCategoria;
-                tic.id_tecnico_asignado = tickets.id_tecnico_asignado;
-                tic.id_solucion = tickets.id_solucion;
-                tic.id_estado = tickets.id_estado;
-                tic.f_fecha_creacion = tickets.f_fecha_creacion;
-                tic.f_fecha_Ultima_Gestion = tickets.f_fecha_Ultima_Gestion;
-                tic.f_fecha_cierre = tickets.f_fecha_cierre;
+                Tickets tic = await context.Tickets.FindAsync(tickets.Id);
+                tic.Id = tickets.Id;
+                tic.C_Descripcion = tickets.C_Descripcion;
+                tic.Id_categoria = tickets.Id_categoria;
+                tic.Id_SubCategoria = tickets.Id_SubCategoria;
+                tic.Id_Tecnico_asignado = tickets.Id_Tecnico_asignado;
+                tic.Id_Solucion = tickets.Id_Solucion;
+                tic.Id_Estado = tickets.Id_Estado;
+                tic.F_Fecha_creacion = tickets.F_Fecha_creacion;
+                tic.F_Fecha_Ultima_Gestion = tickets.F_Fecha_Ultima_Gestion;
+                tic.F_Fecha_cierre = tickets.F_Fecha_cierre;
 
                 await context.SaveChangesAsync();
-                return tickets.id;
+                return tickets.Id;
             }
             public Task<List<Tickets>> listadoTickets()
             {
