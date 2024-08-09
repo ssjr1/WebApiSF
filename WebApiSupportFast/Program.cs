@@ -18,6 +18,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IRepositorioCategorias, RepositorioCategorias>();
 builder.Services.AddScoped<IRepositorioSubCategorias, RepositorioSubCategoria>();
 builder.Services.AddScoped<IRepositorioTecnico, RepositorioTecnico>();
 builder.Services.AddScoped<IRepositorioTickets, RepositorioTicket>();

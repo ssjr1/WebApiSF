@@ -96,41 +96,38 @@ namespace LibreriaSupportFast.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    c_Cedula = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    c_Nombres = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    c_Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    f_FecNacimiento = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    id_CodPerfil = table.Column<int>(type: "int", nullable: false),
-                    perfilesId = table.Column<int>(type: "int", nullable: false),
-                    id_Area = table.Column<int>(type: "int", nullable: false),
-                    areasId = table.Column<int>(type: "int", nullable: false),
-                    id_Ciudad = table.Column<int>(type: "int", nullable: false),
-                    ciudadesId = table.Column<int>(type: "int", nullable: false),
-                    c_Direccione = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    f_FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    f_FechaModificacion = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    C_Cedula = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    C_Nombres = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    C_Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    F_FecNacimiento = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Id_CodPerfil = table.Column<int>(type: "int", nullable: false),
+                    PerfilesId = table.Column<int>(type: "int", nullable: true),
+                    Id_Area = table.Column<int>(type: "int", nullable: false),
+                    AreasId = table.Column<int>(type: "int", nullable: true),
+                    Id_Ciudad = table.Column<int>(type: "int", nullable: false),
+                    CiudadesId = table.Column<int>(type: "int", nullable: true),
+                    C_Direcciones = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    F_FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    F_FechaModificacion = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Usuarios", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Usuarios_Areas_areasId",
-                        column: x => x.areasId,
+                        name: "FK_Usuarios_Areas_AreasId",
+                        column: x => x.AreasId,
                         principalTable: "Areas",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Usuarios_Ciudades_ciudadesId",
-                        column: x => x.ciudadesId,
+                        name: "FK_Usuarios_Ciudades_CiudadesId",
+                        column: x => x.CiudadesId,
                         principalTable: "Ciudades",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                     table.ForeignKey(
-                        name: "FK_Usuarios_Perfiles_perfilesId",
-                        column: x => x.perfilesId,
+                        name: "FK_Usuarios_Perfiles_PerfilesId",
+                        column: x => x.PerfilesId,
                         principalTable: "Perfiles",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -141,7 +138,7 @@ namespace LibreriaSupportFast.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     C_Categoria = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Id_TecnicoDefault = table.Column<int>(type: "int", nullable: false),
-                    TecnicosId = table.Column<int>(type: "int", nullable: false)
+                    TecnicosId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -150,8 +147,7 @@ namespace LibreriaSupportFast.Migrations
                         name: "FK_Categorias_Tecnicos_TecnicosId",
                         column: x => x.TecnicosId,
                         principalTable: "Tecnicos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -292,19 +288,19 @@ namespace LibreriaSupportFast.Migrations
                 column: "SolucionesId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_areasId",
+                name: "IX_Usuarios_AreasId",
                 table: "Usuarios",
-                column: "areasId");
+                column: "AreasId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_ciudadesId",
+                name: "IX_Usuarios_CiudadesId",
                 table: "Usuarios",
-                column: "ciudadesId");
+                column: "CiudadesId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Usuarios_perfilesId",
+                name: "IX_Usuarios_PerfilesId",
                 table: "Usuarios",
-                column: "perfilesId");
+                column: "PerfilesId");
         }
 
         /// <inheritdoc />

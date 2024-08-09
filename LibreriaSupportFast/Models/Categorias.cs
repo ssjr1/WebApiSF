@@ -12,6 +12,6 @@ namespace LibreriaSupportFast.Models
         public string C_Categoria { get; set; }
 
         public int Id_TecnicoDefault { get; set; }
-        public Tecnicos Tecnicos { get; set; }
+        public Tecnicos? Tecnicos { get; set; }
     }
 }

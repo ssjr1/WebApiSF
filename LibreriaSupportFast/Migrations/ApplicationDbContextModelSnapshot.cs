@@ -54,7 +54,7 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int>("Id_TecnicoDefault")
                         .HasColumnType("int");
 
-                    b.Property<int>("TecnicosId")
+                    b.Property<int?>("TecnicosId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -293,56 +293,56 @@ namespace LibreriaSupportFast.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("areasId")
+                    b.Property<int?>("AreasId")
                         .HasColumnType("int");
 
-                    b.Property<string>("c_Apellidos")
+                    b.Property<string>("C_Apellidos")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("c_Cedula")
+                    b.Property<string>("C_Cedula")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("c_Direccione")
+                    b.Property<string>("C_Direcciones")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("c_Nombres")
+                    b.Property<string>("C_Nombres")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ciudadesId")
+                    b.Property<int?>("CiudadesId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("f_FecNacimiento")
+                    b.Property<DateTime>("F_FecNacimiento")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("f_FechaCreacion")
+                    b.Property<DateTime>("F_FechaCreacion")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("f_FechaModificacion")
+                    b.Property<DateTime>("F_FechaModificacion")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("id_Area")
+                    b.Property<int>("Id_Area")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_Ciudad")
+                    b.Property<int>("Id_Ciudad")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_CodPerfil")
+                    b.Property<int>("Id_CodPerfil")
                         .HasColumnType("int");
 
-                    b.Property<int>("perfilesId")
+                    b.Property<int?>("PerfilesId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("areasId");
+                    b.HasIndex("AreasId");
 
-                    b.HasIndex("ciudadesId");
+                    b.HasIndex("CiudadesId");
 
-                    b.HasIndex("perfilesId");
+                    b.HasIndex("PerfilesId");
 
                     b.ToTable("Usuarios");
                 });
@@ -351,9 +351,7 @@ namespace LibreriaSupportFast.Migrations
                 {
                     b.HasOne("LibreriaSupportFast.Models.Tecnicos", "Tecnicos")
                         .WithMany()
-                        .HasForeignKey("TecnicosId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TecnicosId");
 
                     b.Navigation("Tecnicos");
                 });
@@ -411,29 +409,23 @@ namespace LibreriaSupportFast.Migrations
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Usuarios", b =>
                 {
-                    b.HasOne("LibreriaSupportFast.Models.Areas", "areas")
+                    b.HasOne("LibreriaSupportFast.Models.Areas", "Areas")
                         .WithMany()
-                        .HasForeignKey("areasId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("AreasId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Ciudades", "ciudades")
+                    b.HasOne("LibreriaSupportFast.Models.Ciudades", "Ciudades")
                         .WithMany()
-                        .HasForeignKey("ciudadesId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CiudadesId");
 
-                    b.HasOne("LibreriaSupportFast.Models.Perfiles", "perfiles")
+                    b.HasOne("LibreriaSupportFast.Models.Perfiles", "Perfiles")
                         .WithMany()
-                        .HasForeignKey("perfilesId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PerfilesId");
 
-                    b.Navigation("areas");
+                    b.Navigation("Areas");
 
-                    b.Navigation("ciudades");
+                    b.Navigation("Ciudades");
 
-                    b.Navigation("perfiles");
+                    b.Navigation("Perfiles");
                 });
 #pragma warning restore 612, 618
         }
