@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibreriaSupportFast.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240808081137_init")]
-    partial class init
+    [Migration("20240808085542_SupportFast")]
+    partial class SupportFast
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
