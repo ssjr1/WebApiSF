@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\subcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +30,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 447,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Usuarios.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:47:27.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tickets.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Tickets.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tickets.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Tickets.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Tickets.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:47:11.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubCategorias.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\SubCategorias.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\SubCategorias.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\SubCategorias.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\SubCategorias.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:47:05.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gestiones.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Gestiones.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Gestiones.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Gestiones.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Gestiones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:46:40.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Categorias.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Categorias.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Models\\Categorias.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T17:46:29.785Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -112,6 +47,70 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Usuarios.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:47:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tickets.cs",
+              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Tickets.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:47:11.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\SubCategorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:47:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gestiones.cs",
+              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Gestiones.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Gestiones.cs",
+              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Gestiones.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Gestiones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:46:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Categorias.cs",
+              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Categorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:46:29.785Z",
+              "EditorCaption": ""
             }
           ]
         },
