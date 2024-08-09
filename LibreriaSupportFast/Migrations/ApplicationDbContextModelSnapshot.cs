@@ -139,15 +139,6 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int>("solucionesid")
                         .HasColumnType("int");
 
-                    b.Property<int>("subCategoriasid")
-                        .HasColumnType("int");
-
-                    b.Property<int>("tecnicosid")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ticketid")
-                        .HasColumnType("int");
-
                     b.HasKey("id");
 
                     b.HasIndex("categoriasid");
@@ -155,12 +146,6 @@ namespace LibreriaSupportFast.Migrations
                     b.HasIndex("estadosid");
 
                     b.HasIndex("solucionesid");
-
-                    b.HasIndex("subCategoriasid");
-
-                    b.HasIndex("tecnicosid");
-
-                    b.HasIndex("ticketid");
 
                     b.ToTable("Gestiones");
                 });
@@ -271,6 +256,9 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<DateTime>("f_fecha_creacion")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("id_SubCategoria")
+                        .HasColumnType("int");
+
                     b.Property<int>("id_categoria")
                         .HasColumnType("int");
 
@@ -280,19 +268,10 @@ namespace LibreriaSupportFast.Migrations
                     b.Property<int>("id_solucion")
                         .HasColumnType("int");
 
-                    b.Property<int>("id_subcategoria")
-                        .HasColumnType("int");
-
                     b.Property<int>("id_tecnico_asignado")
                         .HasColumnType("int");
 
                     b.Property<int>("solucionesid")
-                        .HasColumnType("int");
-
-                    b.Property<int>("subCategoriasid")
-                        .HasColumnType("int");
-
-                    b.Property<int>("tecnicosid")
                         .HasColumnType("int");
 
                     b.HasKey("id");
@@ -302,10 +281,6 @@ namespace LibreriaSupportFast.Migrations
                     b.HasIndex("estadosid");
 
                     b.HasIndex("solucionesid");
-
-                    b.HasIndex("subCategoriasid");
-
-                    b.HasIndex("tecnicosid");
 
                     b.ToTable("Tickets");
                 });
@@ -403,35 +378,11 @@ namespace LibreriaSupportFast.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("LibreriaSupportFast.Models.SubCategorias", "subCategorias")
-                        .WithMany()
-                        .HasForeignKey("subCategoriasid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "tecnicos")
-                        .WithMany()
-                        .HasForeignKey("tecnicosid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("LibreriaSupportFast.Models.Tickets", "ticket")
-                        .WithMany()
-                        .HasForeignKey("ticketid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("categorias");
 
                     b.Navigation("estados");
 
                     b.Navigation("soluciones");
-
-                    b.Navigation("subCategorias");
-
-                    b.Navigation("tecnicos");
-
-                    b.Navigation("ticket");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.SubCategorias", b =>
@@ -465,27 +416,11 @@ namespace LibreriaSupportFast.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("LibreriaSupportFast.Models.SubCategorias", "subCategorias")
-                        .WithMany()
-                        .HasForeignKey("subCategoriasid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("LibreriaSupportFast.Models.Tecnicos", "tecnicos")
-                        .WithMany()
-                        .HasForeignKey("tecnicosid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("categorias");
 
                     b.Navigation("estados");
 
                     b.Navigation("soluciones");
-
-                    b.Navigation("subCategorias");
-
-                    b.Navigation("tecnicos");
                 });
 
             modelBuilder.Entity("LibreriaSupportFast.Models.Usuarios", b =>

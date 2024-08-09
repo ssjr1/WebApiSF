@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\webapisupportfast\\controllers\\gestionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\gestionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\pibe\\onedrive - universidad de guayaquil\\semestre7\\desarrolloaplicacioneswebavanzado\\proyecto\\backend\\webapisf\\libreriasupportfast\\repositorios\\irepositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 447,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepositorioGestiones.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
-              "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
-              "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:28:03.958Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -40,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GestionesController.cs",
-              "DocumentMoniker": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\WebApiSupportFast\\Controllers\\GestionesController.cs",
-              "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\GestionesController.cs",
-              "ToolTip": "C:\\Users\\PIBE\\OneDrive - Universidad de Guayaquil\\SEMESTRE7\\DESARROLLOAPLICACIONESWEBAVANZADO\\PROYECTO\\BackEnd\\WebApiSF\\WebApiSupportFast\\Controllers\\GestionesController.cs",
-              "RelativeToolTip": "WebApiSupportFast\\Controllers\\GestionesController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwEQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T14:24:31.012Z",
-              "EditorCaption": ""
             }
           ]
         }
