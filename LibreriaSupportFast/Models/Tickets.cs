@@ -12,7 +12,7 @@ namespace LibreriaSupportFast.Models
         public string C_Descripcion { get; set; }
         public int Id_categoria { get; set; }
         public Categorias? Categorias { get; set; }
-       public int Id_SubCategoria { get; set; }
+        public int Id_SubCategoria { get; set; }
         public SubCategorias subCategorias { get; set; }
         public int Id_tecnico_asignado { get; set; }
         public Tecnicos tecnicos { get; set; }
