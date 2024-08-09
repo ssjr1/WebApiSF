@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\algui\\source\\repos\\WebApiSF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\webapisupportfast\\controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\webapisupportfast\\controllers\\subcategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\subcategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\irepositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\webapisupportfast\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\irepositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,6 +43,22 @@
       "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\tecnicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\webapisupportfast\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EC6676F-6AB9-4201-8C41-B73FEE4357D1}|WebApiSupportFast\\WebApiSupportFast.csproj|solutionrelative:webapisupportfast\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,32 +67,12 @@
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriociudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\irepositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\tecnicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriogestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriotickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\repositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\irepositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\repositorios\\irepositoriosubcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\repositorios\\repositorioareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|c:\\users\\algui\\source\\repos\\webapisf\\libreriasupportfast\\libreriasupportfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D1AAF609-A556-4F36-A6A1-969F018BE110}|LibreriaSupportFast\\LibreriaSupportFast.csproj|solutionrelative:libreriasupportfast\\libreriasupportfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -90,11 +110,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 526,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Categorias.cs",
+              "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Categorias.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Categorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:07:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubCategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
+              "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
+              "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
+              "RelativeToolTip": "WebApiSupportFast\\Controllers\\SubCategoriasController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:47:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiSupportFast\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiSupportFast\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T15:30:04.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -114,7 +173,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "20240809145935_InitGcruz.cs",
+              "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs",
+              "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Migrations\\20240809145935_InitGcruz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:59:36.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ciudades.cs",
+              "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Ciudades.cs",
+              "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Ciudades.cs",
+              "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Ciudades.cs",
+              "RelativeToolTip": "LibreriaSupportFast\\Models\\Ciudades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:52:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IRepositorioCiudades.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioCiudades.cs",
@@ -126,28 +211,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CiudadController.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\CiudadController.cs",
               "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\CiudadController.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\CiudadController.cs",
               "RelativeToolTip": "WebApiSupportFast\\Controllers\\CiudadController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAARAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T21:58:28.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "TecnicoController.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\TecnicoController.cs",
               "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\TecnicoController.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\TecnicoController.cs",
               "RelativeToolTip": "WebApiSupportFast\\Controllers\\TecnicoController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDoAAAAJAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:54:29.484Z"
+              "WhenOpened": "2024-08-08T21:54:29.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,37 +243,40 @@
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioTecnico.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwC0AAAAFAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:43:45.874Z"
+              "WhenOpened": "2024-08-08T21:43:45.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IRepositorioTecnico.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioTecnico.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioTecnico.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioTecnico.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioTecnico.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:42:35.403Z"
+              "WhenOpened": "2024-08-08T21:42:35.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Tecnicos.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Tecnicos.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Tecnicos.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Tecnicos.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Models\\Tecnicos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:42:17.297Z"
+              "WhenOpened": "2024-08-08T21:42:17.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "TicketsController.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "WebApiSupportFast\\Controllers\\TicketsController.cs",
@@ -199,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "RepositorioTickets.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioTickets.cs",
@@ -211,19 +300,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "RepositorioSubCategorias.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioSubCategorias.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAmwCUAAAAmAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:51:16.851Z"
+              "WhenOpened": "2024-08-08T07:51:16.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "IRepositorioSubCategorias.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioSubCategorias.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioSubCategorias.cs",
@@ -231,11 +321,12 @@
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\IRepositorioSubCategorias.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:49:49.522Z"
+              "WhenOpened": "2024-08-08T07:49:49.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "RepositorioGestiones.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioGestiones.cs",
@@ -247,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "RepositorioAreas.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioAreas.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioAreas.cs",
@@ -259,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "IRepositorioTickets.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioTickets.cs",
@@ -271,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "IRepositorioAreas.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioAreas.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioAreas.cs",
@@ -283,20 +374,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "RepositorioCiudades.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Repositorios\\RepositorioCiudades.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwBgAAAArAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T06:13:55.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Usuarios.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Usuarios.cs",
@@ -308,19 +399,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "LibreriaSupportFast\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA2wAwAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T06:10:01.544Z"
+              "WhenOpened": "2024-08-08T06:10:01.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "LibreriaSupportFast.csproj",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\LibreriaSupportFast.csproj",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\LibreriaSupportFast.csproj",
@@ -332,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Perfiles.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Models\\Perfiles.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Models\\Perfiles.cs",
@@ -344,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "IRepositorioGestiones.cs",
               "DocumentMoniker": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",
               "RelativeDocumentMoniker": "LibreriaSupportFast\\Repositorios\\IRepositorioGestiones.cs",

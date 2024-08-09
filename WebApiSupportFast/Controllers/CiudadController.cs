@@ -19,8 +19,12 @@ namespace WebApiSupportFast.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Ciudades>>> GetCiudades()
         {
-            var ciudades = await _repositorioCiudad.ListadoCiudades();
+            try
+            {
+                var ciudades = await _repositorioCiudad.ListadoCiudades();
             return Ok(ciudades);
+            }
+            catch (Exception ex) { return BadRequest(ex.Message); }
         }
 
         [HttpGet("{id}")]

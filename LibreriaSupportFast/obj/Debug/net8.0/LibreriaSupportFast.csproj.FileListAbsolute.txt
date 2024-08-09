@@ -19,3 +19,18 @@ E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyect
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.pdb
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.genruntimeconfig.cache
 E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\LibreriaSupportFast\obj\Debug\net8.0\ref\LibreriaSupportFast.dll
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.deps.json
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.runtimeconfig.json
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.dll
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\bin\Debug\net8.0\LibreriaSupportFast.pdb
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.AssemblyReference.cache
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfoInputs.cache
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.AssemblyInfo.cs
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.csproj.CoreCompileInputs.cache
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.sourcelink.json
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.dll
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\refint\LibreriaSupportFast.dll
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.pdb
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\LibreriaSupportFast.genruntimeconfig.cache
+C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\obj\Debug\net8.0\ref\LibreriaSupportFast.dll

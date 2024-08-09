@@ -17,7 +17,7 @@ namespace LibreriaSupportFast.Repositorios
         }
         public async Task<int> crearTecnico(Tecnicos tecnico)
         {
-            context.Tecnicos.Add(tecnico);
+            context.Add(tecnico);
             await context.SaveChangesAsync();
             return tecnico.id;
         }

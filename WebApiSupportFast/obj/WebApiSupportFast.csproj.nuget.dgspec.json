@@ -11,7 +11,7 @@
         "projectName": "LibreriaSupportFast",
         "projectPath": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\LibreriaSupportFast.csproj",
         "packagesPath": "C:\\Users\\algui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\algui\\Source\\Repos\\WebApiSF\\LibreriaSupportFast\\obj\\",
+        "outputPath": "C:\\Users\\algui\\source\\repos\\WebApiSF\\LibreriaSupportFast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\algui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,7 +97,7 @@
         "projectName": "WebApiSupportFast",
         "projectPath": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\WebApiSupportFast.csproj",
         "packagesPath": "C:\\Users\\algui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\algui\\Source\\Repos\\WebApiSF\\WebApiSupportFast\\obj\\",
+        "outputPath": "C:\\Users\\algui\\source\\repos\\WebApiSF\\WebApiSupportFast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\algui\\AppData\\Roaming\\NuGet\\NuGet.Config",
