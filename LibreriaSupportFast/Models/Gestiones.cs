@@ -10,6 +10,7 @@ namespace LibreriaSupportFast.Models
     {
         public int Id { get; set; }
         public int Id_Ticket { get; set; }
+<<<<<<< HEAD
         //public Tickets ticket { get; set; }
         public int Id_categoria { get; set; }
         public Categorias? Categorias { get; set; }
@@ -23,6 +24,21 @@ namespace LibreriaSupportFast.Models
         public Estados? Estados { get; set; }
         public DateTime F_fecha_creacion { get; set; }
         public DateTime F_fecha_cierre { get; set; }
+=======
+        public Tickets Ticket { get; set; }
+        public int Id_Categoria { get; set; }
+        public Categorias Categorias { get; set; }
+        public int Id_SubCategoria { get; set; }
+        public SubCategorias SubCategorias { get; set; }
+        public int Id_tecnico_asignado { get; set; }
+        public Tecnicos Tecnicos { get; set; }
+        public int Id_Solucion { get; set; }
+        public Soluciones Soluciones { get; set; }
+        public int Id_Estado { get; set; }
+        public Estados Estados { get; set; }
+        public DateTime F_Fecha_creacion { get; set; }
+        public DateTime F_Fecha_cierre { get; set; }
+>>>>>>> 4cd01abcffdf20eca6f77cc7255f8afb7b58318f
 
     }
 }
