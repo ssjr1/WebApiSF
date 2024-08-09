@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
@@ -11,3 +12,18 @@ build_property.RootNamespace = LibreriaSupportFast
 build_property.ProjectDir = C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\LibreriaSupportFast\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibreriaSupportFast
+build_property.ProjectDir = C:\Users\algui\source\repos\WebApiSF\LibreriaSupportFast\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> 0ca240120a83ba4e38b370f39b79d8d224ea193b
