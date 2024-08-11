@@ -5,21 +5,18 @@ using static LibreriaSupportFast.Repositorios.RepositorioSubCategorias;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//add Cors
+// Agrega CORS
 builder.Services.AddCors(options => options.AddPolicy("AllowWebApp",
-                                builder => builder.AllowAnyOrigin()
-                                .AllowAnyHeader()
-                                .AllowAnyMethod()));
+    builder => builder.AllowAnyOrigin()
+                      .AllowAnyHeader()
+                      .AllowAnyMethod()));
 
-// Agrega la conexion de la BD
+// Agrega la conexión de la base de datos
 builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
     opciones.UseSqlServer("name=DefaultConnection"));
 
-
-// Add services to the container.
-
+// Agrega servicios al contenedor.
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -35,18 +32,21 @@ builder.Services.AddScoped<IRepositorioTecnico, RepositorioTecnico>();
 builder.Services.AddScoped<IRepositorioTickets, RepositorioTickets>();
 builder.Services.AddScoped<IRepositorioUsuarios, RepositorioUsuarios>();
 
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configuración del pipeline de solicitudes HTTP.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
+// Aplica la política de CORS antes de Authorization
+app.UseCors("AllowWebApp");
+
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+
