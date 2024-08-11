@@ -1,0 +1,225 @@
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\SupportFast\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\appsettings.Development.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\appsettings.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.exe
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.deps.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.runtimeconfig.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Azure.Core.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Azure.Identity.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.build.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.development.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.WebApiSupportFast.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\scopedcss\bundle\WebApiSupportFast.styles.css
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSu.9BA29FD5.Up2Date
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\refint\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.genruntimeconfig.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSupportFast\obj\Debug\net8.0\ref\WebApiSupportFast.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\appsettings.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.exe
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.deps.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.runtimeconfig.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.pdb
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.pdb
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.WebApiSupportFast.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiSupportFast.props
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiSupportFast.props
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiSupportFast.props
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\scopedcss\bundle\WebApiSupportFast.styles.css
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSu.9BA29FD5.Up2Date
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\refint\WebApiSupportFast.dll
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.pdb
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.genruntimeconfig.cache
+C:\Users\PIBE\OneDrive - Universidad de Guayaquil\SEMESTRE7\DESARROLLOAPLICACIONESWEBAVANZADO\PROYECTO\BackEnd\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\ref\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\appsettings.Development.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\appsettings.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.exe
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.deps.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.runtimeconfig.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\WebApiSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Azure.Core.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Azure.Identity.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\bin\Debug\net8.0\LibreriaSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.AssemblyReference.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfoInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.AssemblyInfo.cs
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.csproj.CoreCompileInputs.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cs
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.MvcApplicationPartsAssemblyInfo.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.sourcelink.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.build.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.development.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.WebApiSupportFast.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiSupportFast.props
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\scopedcss\bundle\WebApiSupportFast.styles.css
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSu.9BA29FD5.Up2Date
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\refint\WebApiSupportFast.dll
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.pdb
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\WebApiSupportFast.genruntimeconfig.cache
+E:\Estatal\7mo Nivel\DESARROLLO DE APLICACIONES WEB AVANZADO\2do Parcial\Proyecto FInal\WebApiSF_Local\WebApiSF\WebApiSupportFast\obj\Debug\net8.0\ref\WebApiSupportFast.dll
